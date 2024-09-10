@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎订阅佐为创业说', url: 'https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1223848322' },
-    { title: '点击关注更多实用工具分享', url: 'https://space.bilibili.com/3546730597452210?spm_id_from=333.1007.0.0' }
+    { title: '欢迎订阅佐为创业说', url: 'https://mp.weixin.qq.com/s/I_oquYKoRJ31fgs79th0lA' },
+    { title: '点击关注更多实用工具分享', url: 'https://b23.tv/8I4JlhQ' }
   ],
 
   // 英雄区左右侧组件颠倒位置
