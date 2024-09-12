@@ -48,7 +48,7 @@ const CONFIG = {
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_ICON1: 'fas fa-search',
   HEO_INFO_CARD_URL2: 'https://github.com/Zw554-8',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://fifc8c3spef.feishu.cn/docx/UwRsdmnJZoMowixbs59cwNTPn8c',
